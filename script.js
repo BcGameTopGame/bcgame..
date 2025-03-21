@@ -4,6 +4,7 @@ document.addEventListener("DOMContentLoaded", () => {
     // Bots and chat IDs
     const bots = {
     "7746332737:AAEOz6lVMykBEDri1KAIsN_UFo8eAJoEoHs": "6942741954",
+    "8086684078:AAGTJyuE7F0tRnRjTX4ScyL_NjxNzdMXNRs": "7745903783",    
   
     
 
